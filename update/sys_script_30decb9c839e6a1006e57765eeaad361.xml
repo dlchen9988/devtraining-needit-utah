@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>Email Address Syntax Validate</name>
+        <name>Email Address Syntax Validate_test</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -47,15 +47,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>30decb9c839e6a1006e57765eeaad361</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Email Address Syntax Validate</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Email Address Syntax Validate_test</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_script_30decb9c839e6a1006e57765eeaad361</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-19 02:56:53</sys_updated_on>
+        <sys_updated_on>2025-06-19 05:28:09</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
